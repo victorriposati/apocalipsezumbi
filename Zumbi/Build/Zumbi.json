@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Zumbi.data.unityweb",
+"asmCodeUrl": "Zumbi.asm.code.unityweb",
+"asmMemoryUrl": "Zumbi.asm.memory.unityweb",
+"asmFrameworkUrl": "Zumbi.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
